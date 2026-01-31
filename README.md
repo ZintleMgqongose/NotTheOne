@@ -1,1 +1,1 @@
-# NotTheOne - South African GBV Help App
+# NotTheOne - South African GBV/Sexual Assault Help App
